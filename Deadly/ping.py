@@ -35,11 +35,11 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 if UstaD:
-      @UstaD.on(events.NewMessage(pattern="/ping"))
+      @UstaD.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -48,10 +48,10 @@ else:
     pass
 
 if UstaD2:
-      @UstaD2.on(events.NewMessage(pattern="/ping"))
+      @UstaD2.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -60,11 +60,11 @@ else:
     pass
 
 if UstaD3:
-      @UstaD3.on(events.NewMessage(pattern="/ping"))
+      @UstaD3.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -73,11 +73,11 @@ else:
     pass
 
 if UstaD4:
-      @UstaD4.on(events.NewMessage(pattern="/ping"))
+      @UstaD4.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
        if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -86,11 +86,11 @@ else:
     pass
 
 if UstaD5:
-      @UstaD5.on(events.NewMessage(pattern="/ping"))
+      @UstaD5.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -99,11 +99,11 @@ else:
     pass
 
 if UstaD6:
-      @UstaD6.on(events.NewMessage(pattern="/ping"))
+      @UstaD6.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
        if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -112,11 +112,11 @@ else:
     pass
 
 if UstaD7:
-      @UstaD6.on(events.NewMessage(pattern="/ping"))
+      @UstaD6.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -125,11 +125,11 @@ else:
     pass
 
 if UstaD8:
-      @UstaD8.on(events.NewMessage(pattern="/ping"))
+      @UstaD8.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -138,11 +138,11 @@ else:
     pass
 
 if UstaD9:
-      @UstaD9.on(events.NewMessage(pattern="/ping"))
+      @UstaD9.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
@@ -151,11 +151,11 @@ else:
     pass
 
 if UstaD10:
-      @UstaD10.on(events.NewMessage(pattern="/ping"))
+      @UstaD10.on(events.NewMessage(pattern="+ping"))
       async def ping(e) :
         if e.sender_id in SMEX_USERS:
                   start = datetime.now()
-                  text = "Pong!"
+                  text = "这 Sαмвσ∂нιяαJ❖"
                   event = await e.reply(text, parse_mode=None, link_preview=None )
                   end = datetime.now()
                   ms = (end-start).microseconds / 1000
