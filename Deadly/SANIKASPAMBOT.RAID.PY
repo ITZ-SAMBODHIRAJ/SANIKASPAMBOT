@@ -15,7 +15,7 @@ que = {}
 
 
 if UstaD:
- @UstaD.on(events.NewMessage(pattern="/raid"))
+ @UstaD.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -71,7 +71,7 @@ if UstaD:
 
 
 if UstaD2:
- @UstaD2.on(events.NewMessage(pattern="/raid"))
+ @UstaD2.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -127,7 +127,7 @@ if UstaD2:
       
 
 if UstaD3:
- @UstaD3.on(events.NewMessage(pattern="/raid"))
+ @UstaD3.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -183,7 +183,7 @@ if UstaD3:
 
 
 if UstaD4:
- @UstaD4.on(events.NewMessage(pattern="/raid"))
+ @UstaD4.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -239,7 +239,7 @@ if UstaD4:
        
 
 if UstaD5:
- @UstaD5.on(events.NewMessage(pattern="/raid"))
+ @UstaD5.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -295,7 +295,7 @@ if UstaD5:
             
  
 if UstaD6:
- @UstaD6.on(events.NewMessage(pattern="/raid"))
+ @UstaD6.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -351,7 +351,7 @@ if UstaD6:
                 
 
 if UstaD7:
- @UstaD7.on(events.NewMessage(pattern="/raid"))
+ @UstaD7.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -407,7 +407,7 @@ if UstaD7:
 
 
 if UstaD8:
- @UstaD8.on(events.NewMessage(pattern="/raid"))
+ @UstaD8.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -463,7 +463,7 @@ if UstaD8:
 
 
 if UstaD9:
- @UstaD9.on(events.NewMessage(pattern="/raid"))
+ @UstaD9.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -519,7 +519,7 @@ if UstaD9:
  
 
 if UstaD10:
- @UstaD10.on(events.NewMessage(pattern="/raid"))
+ @UstaD10.on(events.NewMessage(pattern="+raid"))
  async def spam(e):  
     if e.sender_id in SMEX_USERS:
         if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
