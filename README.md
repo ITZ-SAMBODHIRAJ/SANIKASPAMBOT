@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5f300db034fe1c137d295.jpg">
+  <img src="https://telegra.ph/file/0f716b10bff86a9acdf9e.jpg">
 </p>
 
 
@@ -19,15 +19,15 @@
 
 -------------------------------------------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+## ⊰᯽⊱┈─❊ 𝐈𝐍𝐃𝐈𝐀𝐍 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 ❊─┈⊰᯽⊱
                           
-<a href="https://t.me/deadly_spam_bot"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/INDIAN_NETWORK_OP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-purple.svg?logo=Telegram"></a>
+<a href="https://t.me/INDIAN_NETWORK_OFFICIAL"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-purple.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/OFFICIAL_SAMEER)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
+## ᴅᴇᴠᴇʟᴏᴘᴇʀ -[ꜱᴀᴍʙᴏᴅʜɪʀᴀᴊ🇮🇳](https://t.me/ITZ_SAMBODHIRAJ)
+## ᴏᴡɴᴇʀ -[ᴍʀ x🇮🇳](https://t.me/MR_X_OP_BOLTE)
+## ʙᴏᴛ ᴏᴡɴᴇʀ -[ꜱᴀɴɪ🇮🇳](https://t.me/smarty_bush)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
