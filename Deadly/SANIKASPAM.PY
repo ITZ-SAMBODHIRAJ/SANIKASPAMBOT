@@ -28,7 +28,7 @@ for x in SUDO_USERS:
 
 
 if UstaD:
-   @UstaD.on(events.NewMessage(pattern="/spam"))
+   @UstaD.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -61,7 +61,7 @@ if UstaD:
    pass
 
 if UstaD2:
-   @UstaD2.on(events.NewMessage(pattern="/spam"))
+   @UstaD2.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -94,7 +94,7 @@ if UstaD2:
    pass
 
 if UstaD3:
-   @UstaD3.on(events.NewMessage(pattern="/spam"))
+   @UstaD3.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -127,7 +127,7 @@ if UstaD3:
    pass
 
 if UstaD4:
-   @UstaD4.on(events.NewMessage(pattern="/spam"))
+   @UstaD4.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -160,7 +160,7 @@ if UstaD4:
    pass
 
 if UstaD5:
-   @UstaD5.on(events.NewMessage(pattern="/spam"))
+   @UstaD5.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -193,7 +193,7 @@ if UstaD5:
    pass
 
 if UstaD6:
-   @UstaD6.on(events.NewMessage(pattern="/spam"))
+   @UstaD6.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -226,7 +226,7 @@ if UstaD6:
    pass
 
 if UstaD7:
-   @UstaD7.on(events.NewMessage(pattern="/spam"))
+   @UstaD7.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -259,7 +259,7 @@ if UstaD7:
    pass
 
 if UstaD8:
-   @UstaD8.on(events.NewMessage(pattern="/spam"))
+   @UstaD8.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -292,7 +292,7 @@ if UstaD8:
    pass
 
 if UstaD9:
-   @UstaD9.on(events.NewMessage(pattern="/spam"))
+   @UstaD9.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
@@ -325,7 +325,7 @@ if UstaD9:
    pass
 
 if UstaD10:
-   @UstaD10.on(events.NewMessage(pattern="/spam"))
+   @UstaD10.on(events.NewMessage(pattern="+spam"))
    async def spam(e):
        if e.sender_id in SMEX_USERS:
            if e.text[0].isalpha() and e.text[0] in ("/", "#", "@", "!"):
